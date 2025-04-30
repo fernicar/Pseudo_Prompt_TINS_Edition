@@ -269,6 +269,9 @@ The generated PPCA behavior should be tested with scenarios like:
 
 ---
 
+## Resources
+[Essay.md](Essay.md) - The Evolution of System Prompts: From Natural Language to Pseudo-Prompt Method.
+
 ## License
 [MIT License](LICENSE)
 
